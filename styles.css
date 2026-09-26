@@ -103,6 +103,8 @@ header{
     margin-left: 57px;
 }
 
+@media screen and (max-width: 900px){
+
      
     .container-left{
         width: 100%;
@@ -149,13 +151,6 @@ header{
         margin: 0 auto;
         display: block;
     }
-
-
-
-
-@media screen and (max-width: 330px){
-    .container-left{
-        height: 70%;
-    }
-
 }
+
+
