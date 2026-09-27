@@ -11,3 +11,5 @@
 <br>
 <h4>Esee projeto é responsivo</h4>
 
+<img src="https://github.com/AlafRafael/easy-shopping/blob/main/assets/mobile.png?raw=true">
+
